@@ -1,0 +1,27 @@
+# Logs
+*.log
+startup.log
+
+# OS
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temp
+tmp/
+temp/
+*.tmp
